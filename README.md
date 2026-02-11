@@ -301,8 +301,9 @@ RFM segmentation + automated email journeys (post-purchase, birthday, abandoned 
 
 👨‍💻 **Author**
 
-**[TODO KOSSI FIDELE]**
-*Data Analyst |
+TODO KOSSI FIDELE
+
+Data Analyst 
 
 
 
