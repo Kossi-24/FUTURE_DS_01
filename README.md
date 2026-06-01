@@ -51,18 +51,16 @@ This project presents a complete analysis of sales data from a retail e-commerce
    Interactive geographic map with color intensity proportional to revenue, instantly visualizing the dominance of the UK market (82%) and the underexploited potential of continental Europe.
 <img width="765" height="432" alt="Capture d&#39;écran 2026-02-10 171843" src="https://github.com/user-attachments/assets/e5f3ab48-8782-4f63-9016-3542459c88e3" />
 
-5. **Weekly Performance**
-   Dual-axis chart combining revenue (lines) and number of transactions (bars) per week, helping detect weekly patterns and identify peak weeks of the year.
 
-6. **Product Price-Volume Positioning**
+5. **Product Price-Volume Positioning**
    Scatter plot positioning each product according to its average price and quantity sold, with bubble size representing revenue, helping identify profitable premium products and pricing opportunities.
 <img width="783" height="443" alt="Capture d&#39;écran 2026-02-10 172025" src="https://github.com/user-attachments/assets/f93606af-65ce-44ce-9ddd-64adebe66e9c" />
 
-7. **Number of Quarters and Total Revenue by Country**
+6. **Number of Quarters and Total Revenue by Country**
    Stacked column chart breaking down revenue by quarter and by country, highlighting the disproportionate contribution of Q4 (65% of annual revenue) and the geographic distribution of sales throughout the year.
 <img width="775" height="439" alt="Capture d&#39;écran 2026-02-10 172051" src="https://github.com/user-attachments/assets/2974a831-2ebf-4221-a4bf-be7d9939433e" />
 
-8. **Revenue and Volume by Product**
+7. **Revenue and Volume by Product**
    Hierarchical matrix organized by category and then by product, displaying both generated revenue and quantities sold simultaneously, facilitating detailed analysis of product catalog performance and identification of high-turnover items.
 <img width="763" height="432" alt="Capture d&#39;écran 2026-02-10 172117" src="https://github.com/user-attachments/assets/572bbebd-369a-4632-8680-f49c12f0ff63" />
 
